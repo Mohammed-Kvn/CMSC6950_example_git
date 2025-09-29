@@ -1,1 +1,4 @@
-.log
+*.log       # ignore all .log files
+*.tmp       # ignore all .tmp files
+*.exe       # ignore compiled executables
+*.pdf       # ignore generated PDFs
